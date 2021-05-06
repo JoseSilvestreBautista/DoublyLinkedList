@@ -1,5 +1,5 @@
 # DoublyLinkedList
-This program helps visualize a doubly linked list and allows for interaction with a doubly linkedlist. I created this during my Data structures & algorithm 
+This program helps visualize a doubly linked list and allows for interaction with a doubly linkedlist. I created this during my data structures and algorithms class.
 
 
 ## Demonstration
